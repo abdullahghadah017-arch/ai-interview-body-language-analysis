@@ -29,7 +29,4 @@ It evaluates:
 ## 📸 Screenshots
 
 ### Interface
-(Add your interface screenshot here)
-
-### Body Language Detection
-(Add detection screenshot here)
+![Interface](interview.jpg)
